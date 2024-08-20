@@ -1,0 +1,49 @@
+Projeto de extensão 
+ Pesquisa - Documento PDF ( Guilherme/ Isabela) 
+	⁃	Realizar uma pesquisa profunda sobre o tema da violência doméstica (estatísticas, leis, formas de apoio, etc.).
+	⁃	Identificar recursos e serviços existentes para apoio às vítimas.
+	⁃	Analisar outros sites e aplicativos que tratam do mesmo tema para coletar boas práticas.
+	⁃	Reunir informações para a criação de conteúdo relevante e sensível.
+
+Design e Identidade Visual ( Fernando / Maria / Tainara)
+	⁃	Designer de Interface 
+	⁃	Criação do design e prototipação no Figma.
+	⁃	Definição da identidade visual (cores, tipografia, ícones).
+
+Telas 
+1. Página Inicial (Home)
+2. Recursos e Apoio
+3. Contato
+4. Sobre Nós
+5. Guia de Sinais de Alerta
+6. Depoimentos
+7. Legislação e Direitos
+8. Planos de Fuga ou Segurança
+9. FAQ (Perguntas Frequentes)
+10. Blog ou Seção de Artigos
+11. Área de Profissionais de Apoio
+12. Página de Doações
+13.Extra 
+
+Back ( Isabela / Guilherme / Heitor / Tainara) 
+C#
+
+	⁃	Configuração do ambiente de desenvolvimento.
+	⁃	Estruturação das pastas do projeto.
+	⁃	Configuração inicial do banco de dados.
+	⁃	Suporte na configuração do banco de dados.
+	⁃	Implementação do CRUD
+	⁃	Criação de entidades e repositórios.
+	⁃	Implementação de operações CRUD.
+	⁃	Configuração de Controllers/Pages.
+	⁃	Suporte na criação de repositórios.
+	⁃	Testes e ajustes nas operações CRUD.
+
+Front-End (Fernando / João / Maria)
+HTML/CSS/ Java Script
+     - Implementação das Views/Components.
+     - Estruturação do layout
+     - Implementação do CSS base 
+     - Estilização das páginas conforme a identidade visual.
+     - Implementação de funcionalidades dinâmicas com JavaScript
+
