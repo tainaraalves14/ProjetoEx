@@ -1,0 +1,3 @@
+Projeto C#: Plataforma de Apoio e Combate à Violência Doméstica
+
+Initial commit - estrutura 
